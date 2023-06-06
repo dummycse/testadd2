@@ -1,5 +1,5 @@
 {
-    "name": "shiva/testadd2",
+    "name": "ourvoice/php",
     "description": "simple test",
     "autoload": {
         "psr-4": {
